@@ -1,0 +1,32 @@
+body{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+}
+h2{
+    color: cornsilk;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h4{
+    text-align: center;
+    font-family: cursive;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    width: 33%;
+}
+.p-AboutME{
+    font-family: cursive;
+    text-align: justify;
+}
+table-menu{
+
+}
